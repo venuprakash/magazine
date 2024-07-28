@@ -1,4 +1,4 @@
-<h1>Magazine</h1>
+<h1>FREECODECAMP - Building a Magazine</h1>
 
 <h3>https://venuprakash.github.io/magazine/</h3>
 
